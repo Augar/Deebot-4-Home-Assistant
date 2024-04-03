@@ -1,7 +1,8 @@
 # Home Assistant integration for deebot vacuums
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 <a href="https://www.buymeacoffee.com/edenhaus" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" width="150px" height="28px" alt="Buy Me A Coffee" style="height: 28px !important;width: 150px !important;" ></a>
+
+**This integration has been available directly in the Home Assistant core since version `2024.2.0`. For more information, please check out the [Ecovacs HA documentation](https://www.home-assistant.io/integrations/ecovacs/).**
 
 With this custom component you'll be able to
 
